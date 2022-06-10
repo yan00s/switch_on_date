@@ -28,3 +28,5 @@ Has the ability to set the time and set the working time
 
     at = time when switch on transistor which the switch on relay
     to = time after whom atmega328 switch off transistor
+
+my tiktok where I show this project: https://www.tiktok.com/@yaan0_0
