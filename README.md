@@ -30,3 +30,4 @@ Controlled by encoder
     to = time after whom atmega328 switch off transistor
 
 my tiktok where I show this project: https://www.tiktok.com/@yaan0_0
+![Screenshot_7](https://user-images.githubusercontent.com/45666540/173081846-cdb7796f-1a64-45d5-90cc-5e57a3a92383.png)
