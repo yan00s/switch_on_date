@@ -11,9 +11,7 @@ PCB:
 ![PCB_PCB_college___3_2022-06-10](https://user-images.githubusercontent.com/45666540/173077550-485c1641-a5bc-43e5-b80a-061b81fa0c8c.png)
 
 
-Started image on display:
-
-Showed date now, with days week
+Started image on display: showed date now, with days week
 ![Screenshot_19](https://user-images.githubusercontent.com/45666540/173069479-2caac015-bf16-4b77-b0a6-69cad6dabbf0.png)
 
 
