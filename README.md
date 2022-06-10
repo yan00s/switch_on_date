@@ -29,5 +29,5 @@ Controlled by encoder
     at = time when switch on transistor which the switch on relay
     to = time after whom atmega328 switch off transistor
 
-    my tiktok where I show this project: https://www.tiktok.com/@yaan0_0
 ![Screenshot_8](https://user-images.githubusercontent.com/45666540/173081942-7b93c95b-9f9f-42c2-a250-822dd775165b.png)
+my tiktok where I show this project: https://www.tiktok.com/@yaan0_0
